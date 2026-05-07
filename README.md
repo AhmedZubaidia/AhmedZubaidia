@@ -1,14 +1,12 @@
-<!-- Header section with GIF aligned to the right for a better visual appeal -->
-<div align="right">
-  <img align="right" width="200" src="https://i.pinimg.com/originals/78/50/8a/78508a2f53ff910f17e140a79f1026b4.gif" alt="Coding GIF" />
-</div>
 
 # 💫 About Me
+
+<img align="right" width="200" src="https://i.pinimg.com/originals/78/50/8a/78508a2f53ff910f17e140a79f1026b4.gif" alt="Coding GIF" />
+
 Hi 👋, I'm Ahmad Zubaidia! <br><br>
 I am passionate about full-stack and mobile development with Android and Flutter, as well as AI fields like computer vision and NLP.
 
-<!-- Social Media Links Section -->
-## 🌐 Socials
+### 🌐 Socials
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmad-zubaidia/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,7 +19,7 @@ I am passionate about full-stack and mobile development with Android and Flutter
   </a>
 </p>
 
----
+<br clear="both"/>
 
 <!-- Technology Stack categorized for better readability -->
 ## 💻 Tech Stack
