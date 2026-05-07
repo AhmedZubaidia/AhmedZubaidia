@@ -57,16 +57,16 @@ I am passionate about full-stack and mobile development with Android and Flutter
 <!-- GitHub Statistics Section -->
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedZubaidia&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="Ahmed's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedZubaidia&theme=dark&hide_border=true" alt="Ahmed's GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedZubaidia&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+[![GitHub Stats](https://github-readme-stats.shion.dev/api?username=AhmedZubaidia&theme=dark&hide_border=true&include_all_commits=true&count_private=false)](https://github.com/AhmedZubaidia)
 
-### 🔝 Top Contributed Repo
-<p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AhmedZubaidia&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-</p>
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedZubaidia&theme=dark&hide_border=true)](https://github.com/AhmedZubaidia)
+
+<br/>
+
+[![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AhmedZubaidia&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)](https://github.com/AhmedZubaidia)
+
+</div>
